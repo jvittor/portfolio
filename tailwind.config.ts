@@ -9,10 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattern': "url('https://iili.io/d9YjfMN.md.png')"
+        'hero-pattern': "url('https://iili.io/d9YjfMN.md.png')",
       },
       colors: {
-        blue: '#B7CFD7', // Adding the color under the key 'blue'
+        blue: '#B7CFD7',
+        white: '#E7E8E8',
+      },
+      fontFamily: {
+        jura: ['var(--font-jura)', 'sans-serif'],
       },
     },
   },

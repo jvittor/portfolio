@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Jura } from "next/font/google";
 import "./globals.css";
-import Navbar  from "@/components/Navbar";
+import Navbar from "@/components/Navbar";
 
+// Importação da fonte Jura
 const inter = Inter({ subsets: ["latin"] });
+const jura = Jura({ subsets: ["latin"]});
 
 export const metadata: Metadata = {
   title: "sineca",
@@ -17,12 +19,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body className={inter.className}>
+      <body className={`${inter.className} ${jura.className}`}>
         <header>
-          
           <Navbar />
         </header>
-        {children}
+        <main>{children}</main>
       </body>
     </html>
   );
