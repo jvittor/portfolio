@@ -42,19 +42,19 @@ const Navbar = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.arcgis.com/apps/dashboards/b539b211906f46cc9429d61947179e87" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
+                                    <a className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
                                         <img src='https://i.postimg.cc/kBjLrsSC/contato-1.png' className="w-auto h-10 hover:opacity-80" alt='contato' />
                                     </a>
                                 </li>
                             </div>
                             <div className='flex flex-col justify-center'>
                                 <li>
-                                    <a href="https://www.arcgis.com/apps/dashboards/b539b211906f46cc9429d61947179e87" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
+                                    <a className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
                                         <img src='https://i.postimg.cc/CZnNQHGc/projetos2.png' className="w-auto h-10 hover:opacity-80" alt='projeto' />
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.arcgis.com/apps/dashboards/b539b211906f46cc9429d61947179e87" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
+                                    <a className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-#C86236 md:p-0 dark:text-black md:dark:hover:text-orange dark:hover:bg-orange dark:hover:text-white md:dark:hover:bg-transparent">
                                         <img src='https://i.postimg.cc/hXzykBg8/resumo.png' className="w-auto h-10 hover:opacity-80" alt='resumo' />
                                     </a>
                                 </li>
