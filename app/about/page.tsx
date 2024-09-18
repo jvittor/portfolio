@@ -43,7 +43,7 @@ const About = () => {
                             </div>
                             <div className='grid gap-2 text-xl inline-block w-full max-w-md bg-primary'>
                                 <h2 className='tracking-widest'>HOBBIES</h2>
-                                <Link href="https://spotify.com" target='_blank' rel="noopener noreferrer">
+                                <Link href="https://youtu.be/o_BA8eS5XQ8?si=xUCpPDvNGAJB5GVi" target='_blank' rel="noopener noreferrer">
                                     <div className='flex items-center space-x-3 rtl:space-x-reverse'>
                                         <img className='w-20' src="https://i.postimg.cc/HJYMPJFk/Melhor-N-o-Olhar.png" />
                                         <p className='text-sm'> EQUILIBIUM EP | - (2023)</p>
